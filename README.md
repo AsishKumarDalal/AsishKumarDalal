@@ -1,5 +1,10 @@
+# Hi 👋, I'm Asish Kumar Dalal
+### A Software Engineer
 
-## 🌐 Socials:
+- 🔭 I'm currently working on **Machine LEarning projects**
+
+- 🌱 I'm currently learning **Machien learning**
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asish-kumar-dalal) 
 
 # 💻 Tech Stack:
