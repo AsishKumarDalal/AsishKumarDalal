@@ -1,19 +1,57 @@
-# Hi 👋, I'm Asish Kumar Dalal
-### A Software Engineer
+# Hi there, I'm Asish Kumar Dalal 👋
 
-- 🔭 I'm currently working on **Machine Learning projects**
+### 🚀 Systems & Machine Learning Engineer | AI Researcher & Developer
 
-- 🌱 I'm currently learning **Machien learning**
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asish-kumar-dalal) 
+I build **large-scale machine learning architectures from scratch**, **high-performance systems**, and **distributed infrastructure**. Passionate about deep learning theory, mathematical modeling, and production-grade software development.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
+🌐 **Portfolio**: [asishkumardalal.github.io](https://asishkumardalal.github.io/)  
+📧 **Email**: [dalalasishkumar23@gmail.com](mailto:dalalasishkumar23@gmail.com)  
+💼 **LinkedIn**: [linkedin.com/in/asish-kumar-dalal](https://linkedin.com/in/asish-kumar-dalal)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsishKumarDalal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AsishKumarDalal&" alt="AsishKumarDalal" /></p>
 ---
 
+## ⚡ Featured Projects & Architectures
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- **[Statistical Language Model](https://github.com/AsishKumarDalal/statistical-language-model)**  
+  *Statistical NLP framework implementing N-Gram Interpolation, SVD Embeddings, Hidden Markov Models (HMM), LDA Topic Modeling, and EM Algorithms from mathematical principles.*
+
+- **[GPTOSS - Mixture of Experts (MoE)](https://github.com/AsishKumarDalal/gptoss)**  
+  *Custom Sparse Mixture-of-Experts (MoE) LLM architecture implemented from scratch in PyTorch with top-k expert routing and load balancing loss.*
+
+- **[HSKM Architecture](https://github.com/AsishKumarDalal/HSKM-Architecture)**  
+  *Hierarchical Sparse Kernel Memory architecture combining learned kernel-based attention with multi-tiered memory banks for extended context retrieval.*
+
+- **[C++ Load Balancer](https://github.com/AsishKumarDalal/loadbalancer_c)**  
+  *High-throughput multi-threaded TCP load balancer built in C++ supporting round-robin routing and active health monitoring.*
+
+- **[Auto Finetuner](https://github.com/AsishKumarDalal/auto_finetuner)**  
+  *Zero-boilerplate Python framework for fine-tuning Large Language Models using QLoRA, PEFT, and 4-bit quantization.*
+
+- **[DeiT from Scratch](https://github.com/AsishKumarDalal/DATA_EFFICIENT_IMAGE_TRANSFORMER)**  
+  *Data-Efficient Image Transformer (DeiT) implemented from scratch with teacher-student distillation tokens.*
+
+---
+
+## 🛠 Tech Stack
+
+**Languages & Core Frameworks:**  
+`Python` • `C++` • `TypeScript` • `JavaScript` • `SQL`
+
+**Machine Learning & AI:**  
+`PyTorch` • `TensorFlow` • `Transformers` • `Scikit-Learn` • `NumPy` • `Pandas` • `OpenCV` • `MLflow`
+
+**Backend & Cloud Systems:**  
+`Node.js` • `Express` • `Next.js` • `Redis` • `Docker` • `MySQL` • `MongoDB` • `GCP` • `GitHub Actions`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsishKumarDalal&show_icons=true&theme=radical&hide_border=false" alt="Asish's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsishKumarDalal&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+<p align="center"><i>"Building intelligent systems from ground truth mathematical principles."</i></p>
