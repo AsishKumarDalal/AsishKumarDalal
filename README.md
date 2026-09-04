@@ -1,12 +1,8 @@
-# Hi there, I'm Asish Kumar Dalal 👋
-
-### 🚀 Systems & Machine Learning Engineer | AI Researcher & Developer
-
-I build **large-scale machine learning architectures from scratch**, **high-performance systems**, and **distributed infrastructure**. Focused on deep learning theory, knowledge distillation, custom neural network implementations, and low-latency C++ systems.
+# Hi there, I'm Asish Kumar Dalal
 
 ---
 
-## 🛠️ Featured Flagship Projects
+## Featured Flagship Projects
 
 - **[GPTOSS — Mixture of Experts (MoE)](https://github.com/AsishKumarDalal/gptoss)**  
   Custom PyTorch implementation of a Sparse Mixture of Experts (MoE) LLM featuring router top-k gating, multi-head self-attention, KV-caching, and low-precision quantization.
@@ -28,7 +24,7 @@ I build **large-scale machine learning architectures from scratch**, **high-perf
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -55,7 +51,7 @@ I build **large-scale machine learning architectures from scratch**, **high-perf
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 - **Portfolio**: [asishkumardalal.github.io](https://asishkumardalal.github.io/)
 - **LinkedIn**: [linkedin.com/in/asish-kumar-dalal](https://linkedin.com/in/asish-kumar-dalal)
@@ -63,7 +59,7 @@ I build **large-scale machine learning architectures from scratch**, **high-perf
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsishKumarDalal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
