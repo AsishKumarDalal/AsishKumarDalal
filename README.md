@@ -2,7 +2,7 @@
 
 ### 🚀 Systems & Machine Learning Engineer | AI Researcher & Developer
 
-I build **large-scale machine learning architectures from scratch**, **high-performance systems**, and **distributed infrastructure**. Passionate about deep learning theory, mathematical modeling, and production-grade software development.
+I build **large-scale machine learning architectures from scratch**, **high-performance systems**, and **distributed infrastructure**. Passionate about deep learning theory, knowledge distillation, mathematical modeling, and production-grade software development.
 
 🌐 **Portfolio**: [asishkumardalal.github.io](https://asishkumardalal.github.io/)  
 📧 **Email**: [dalalasishkumar23@gmail.com](mailto:dalalasishkumar23@gmail.com)  
@@ -18,6 +18,9 @@ I build **large-scale machine learning architectures from scratch**, **high-perf
 - **[GPTOSS - Mixture of Experts (MoE)](https://github.com/AsishKumarDalal/gptoss)**  
   *Custom Sparse Mixture-of-Experts (MoE) LLM architecture implemented from scratch in PyTorch with top-k expert routing and load balancing loss.*
 
+- **[Knowledge Distillation & DeiT from Scratch](https://github.com/AsishKumarDalal/DATA_EFFICIENT_IMAGE_TRANSFORMER)**  
+  *Data-Efficient Image Transformer (DeiT) & Knowledge Distillation pipeline transferring representation knowledge from heavy teacher models to compact student models using specialized distillation tokens.*
+
 - **[HSKM Architecture](https://github.com/AsishKumarDalal/HSKM-Architecture)**  
   *Hierarchical Sparse Kernel Memory architecture combining learned kernel-based attention with multi-tiered memory banks for extended context retrieval.*
 
@@ -27,9 +30,6 @@ I build **large-scale machine learning architectures from scratch**, **high-perf
 - **[C++ Load Balancer](https://github.com/AsishKumarDalal/loadbalancer_c)**  
   *High-throughput multi-threaded TCP load balancer built in C++ supporting round-robin routing and active health monitoring.*
 
-- **[DeiT from Scratch](https://github.com/AsishKumarDalal/DATA_EFFICIENT_IMAGE_TRANSFORMER)**  
-  *Data-Efficient Image Transformer (DeiT) implemented from scratch with teacher-student distillation tokens.*
-
 ---
 
 ## 🛠 Tech Stack
@@ -38,7 +38,7 @@ I build **large-scale machine learning architectures from scratch**, **high-perf
 `Python` • `C++` • `TypeScript` • `JavaScript` • `SQL`
 
 **Machine Learning & AI:**  
-`PyTorch` • `TensorFlow` • `Transformers` • `Scikit-Learn` • `NumPy` • `Pandas` • `OpenCV` • `MLflow`
+`PyTorch` • `Knowledge Distillation` • `TensorFlow` • `Transformers` • `Scikit-Learn` • `NumPy` • `Pandas` • `OpenCV` • `MLflow`
 
 **Backend & Cloud Systems:**  
 `Node.js` • `Express` • `Next.js` • `Redis` • `Docker` • `MySQL` • `MongoDB` • `GCP` • `GitHub Actions`
