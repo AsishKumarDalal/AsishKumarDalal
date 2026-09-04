@@ -21,11 +21,11 @@ I build **large-scale machine learning architectures from scratch**, **high-perf
 - **[HSKM Architecture](https://github.com/AsishKumarDalal/HSKM-Architecture)**  
   *Hierarchical Sparse Kernel Memory architecture combining learned kernel-based attention with multi-tiered memory banks for extended context retrieval.*
 
+- **[BERT from Scratch](https://github.com/AsishKumarDalal/BERT_scratch_pytorch)**  
+  *Bidirectional Encoder Representations from Transformers implemented from scratch in PyTorch featuring Masked LM (MLM) and Next Sentence Prediction (NSP).*
+
 - **[C++ Load Balancer](https://github.com/AsishKumarDalal/loadbalancer_c)**  
   *High-throughput multi-threaded TCP load balancer built in C++ supporting round-robin routing and active health monitoring.*
-
-- **[Auto Finetuner](https://github.com/AsishKumarDalal/auto_finetuner)**  
-  *Zero-boilerplate Python framework for fine-tuning Large Language Models using QLoRA, PEFT, and 4-bit quantization.*
 
 - **[DeiT from Scratch](https://github.com/AsishKumarDalal/DATA_EFFICIENT_IMAGE_TRANSFORMER)**  
   *Data-Efficient Image Transformer (DeiT) implemented from scratch with teacher-student distillation tokens.*
