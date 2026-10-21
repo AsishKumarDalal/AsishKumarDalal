@@ -7,9 +7,6 @@
 - **[GPTOSS — Mixture of Experts (MoE)](https://github.com/AsishKumarDalal/gptoss)**  
   Custom PyTorch implementation of a Sparse Mixture of Experts (MoE) LLM featuring router top-k gating, multi-head self-attention, KV-caching, and low-precision quantization.
 
-- **[BERT from Scratch](https://github.com/AsishKumarDalal/BERT_scratch_pytorch)**  
-  Bidirectional Encoder Representations from Transformers (BERT) built ground-up in PyTorch, implementing Masked Language Modeling (MLM), Next Sentence Prediction (NSP), positional embeddings, and custom pre-training / fine-tuning loops.
-
 - **[Knowledge Distillation & DeiT from Scratch](https://github.com/AsishKumarDalal/DATA_EFFICIENT_IMAGE_TRANSFORMER)**  
   Data-Efficient Image Transformer (DeiT) & Knowledge Distillation pipeline transferring representation knowledge from heavy teacher models to compact student models using specialized distillation tokens.
 
@@ -19,12 +16,8 @@
 - **[C++ Load Balancer](https://github.com/AsishKumarDalal/loadbalancer_c)**  
   High-throughput C++ TCP load balancer with multi-threading, non-blocking socket I/O, health checking, and customizable round-robin / least-connections algorithms.
 
-- **[Statistical Language Model](https://github.com/AsishKumarDalal/statistical-language-model)**  
-  Non-neural classical statistical language model implemented from ground-truth mathematical principles using SVD PPMI embeddings, Kneser-Ney Markov Chains, Baum-Welch HMMs, and LDA topic modeling fused via Expectation-Maximization (EM) interpolation.
 
 ---
-
-## Tech Stack
 
 ## Tech Stack
 
