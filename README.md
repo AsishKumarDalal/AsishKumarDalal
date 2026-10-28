@@ -16,6 +16,9 @@
 - **[C++ Load Balancer](https://github.com/AsishKumarDalal/loadbalancer_c)**  
   High-throughput C++ TCP load balancer with multi-threading, non-blocking socket I/O, health checking, and customizable round-robin / least-connections algorithms.
 
+- **[The Harness — Agentic Coding CLI & TUI](https://github.com/AsishKumarDalal/harness)**  
+  A small, complete agentic coding CLI in Python with an opencode-style Textual TUI. Streaming tool-calling loop, path-jailed file edits, tiered safety approvals, persistent SQLite sessions, two-tier context compaction, on-demand skills, parallel subagents, and support for any OpenAI-compatible model endpoint.
+
 
 ---
 
